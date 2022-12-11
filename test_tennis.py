@@ -1,4 +1,3 @@
-import pytest
 from tennis import TennisGame
 
 
