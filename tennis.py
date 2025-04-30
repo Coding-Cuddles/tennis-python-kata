@@ -1,5 +1,4 @@
 class TennisGame:
-
     def __init__(self):
         self.player1_points = 0
         self.player2_points = 0
