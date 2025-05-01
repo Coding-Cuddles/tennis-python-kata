@@ -4,7 +4,6 @@ from tennis import TennisGame
 
 
 class TestTennisGame:
-
     @pytest.mark.xfail
     def test_get_score(self):
         game = TennisGame()
